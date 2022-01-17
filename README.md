@@ -20,8 +20,8 @@
 ## 使用指南
 1. Fork本仓库，修改 `config.yml` 文件，仅需修改下面两行。
 ```shell
-ApiHost: "YOUR_PANEL_URL" # 修改这里
-ApiKey: "YOUR_TOKEN" # 修改这里
+ApiHost: "http://173.82.151.234/" # 修改这里
+ApiKey: "1234567890123456" # 修改这里
 ```
 
 
